@@ -1,0 +1,60 @@
+name: flexi_sense_companion
+description: For the deaf and speech impaired individuals
+flutter:
+  fonts:
+    - family: PoppinsBold  # Replace with the actual font family name
+      fonts:
+        - asset: assets/fonts/PoppinsBold.ttf
+    - family: PoppinsMedium
+      fonts:
+        - asset: assets/fonts/PoppinsMedium.ttf
+    - family: PoppinsRegular  # Replace with the actual font family name
+      fonts:
+        - asset: assets/fonts/PoppinsRegular.ttf
+    - family: PoppinsSemiBold  # Replace with the actual font family name
+      fonts:
+        - asset: assets/fonts/PoppinsSemiBold.ttf
+  assets:
+    - assets/images/img_logo.png
+    - assets/images/logo2.png
+    - assets/images/logo3.svg
+    - assets/images/bg.jpeg
+    - assets/images/1.png
+    - assets/images/2.png
+    - assets/images/3.png
+    - assets/images/4.png
+    - assets/images/okay.png
+    - assets/images/assistance.png
+    - assets/images/pills.png
+    - assets/images/offline.png
+
+# Version constraints
+environment:
+  sdk: ">=2.17.0"
+
+
+# Dependencies
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Your splash screen image
+  cupertino_icons: ^1.0.6  # Example dependency
+  firebase_auth: ^4.17.8
+  firebase_core: ^2.27.0
+  provider: '<6.1.5'
+  google_sign_in: ^6.2.1
+  logger: ^2.2.0
+  flutter_svg: ^1.1.6
+  firebase_database: ^10.4.9
+  cloud_firestore: '<=4.15.10'
+  shared_preferences: ^2.2.2
+  flutter_launcher_icons: ^0.13.1
+  firebase_messaging: ^14.7.19
+  flutter_local_notifications: ^17.0.0
+# Dev Dependencies
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "icons/icon.png"

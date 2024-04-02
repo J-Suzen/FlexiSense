@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "440948367961",
+    "firebase_url": "https://flexisense-default-rtdb.firebaseio.com",
+    "project_id": "flexisense",
+    "storage_bucket": "flexisense.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440948367961:android:6670e378eef7c85af10748",
+        "android_client_info": {
+          "package_name": "com.example.flexi_sense_companion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440948367961-38s0gslcuaiss7f5f8iec825pvip4a9m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flexi_sense_companion",
+            "certificate_hash": "9d5b92b78ab76dcebc02adae4e2f334c46d7a9c7"
+          }
+        },
+        {
+          "client_id": "440948367961-0fickl4pbnjm9dk5hm9280f5pts8luic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADK_Xxmkq9hXrU8v0uY_WobXqXVXJR3xY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440948367961-0fickl4pbnjm9dk5hm9280f5pts8luic.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "440948367961-0u8mcglfvfjbibo70nkol6rehj9l26rk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flexiSenseCompanion"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440948367961:android:b1e79058ff13984ef10748",
+        "android_client_info": {
+          "package_name": "com.jittusapplication.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440948367961-0fickl4pbnjm9dk5hm9280f5pts8luic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADK_Xxmkq9hXrU8v0uY_WobXqXVXJR3xY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440948367961-0fickl4pbnjm9dk5hm9280f5pts8luic.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "440948367961-0u8mcglfvfjbibo70nkol6rehj9l26rk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flexiSenseCompanion"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440948367961:android:06a1f1125c704a9af10748",
+        "android_client_info": {
+          "package_name": "mini.project1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440948367961-a27fte0i3j952k0qh62koeasfrkog78u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mini.project1",
+            "certificate_hash": "9d5b92b78ab76dcebc02adae4e2f334c46d7a9c7"
+          }
+        },
+        {
+          "client_id": "440948367961-0fickl4pbnjm9dk5hm9280f5pts8luic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADK_Xxmkq9hXrU8v0uY_WobXqXVXJR3xY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440948367961-0fickl4pbnjm9dk5hm9280f5pts8luic.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "440948367961-0u8mcglfvfjbibo70nkol6rehj9l26rk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flexiSenseCompanion"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
